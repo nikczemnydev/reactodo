@@ -9,27 +9,27 @@ The input field provides a seamless experience for adding new tasks.
 2. Task List:
 All added tasks are displayed in a clean and organized list format.
 
-Task Completion:
+3. Task Completion:
 Users can mark a task as completed by clicking on it. And yes, you can un-complete the task too!
 Completed tasks are visually crossed out, making it easy to track progress.
 
-Task Removal:
+4. Task Removal:
 To remove a task, users have two options:
 Press the “Del” key on their keyboard (for quick removal).
 Click the “Clear Tasks” button located below the task list (for bulk removal).
 
-Persistent State:
+5. Persistent State:
 Reactodo utilizes local storage to persist the task list even after the user refreshes the browser window.
 This ensures that your tasks remain intact across sessions.
 
-Neon-Colored Theme:
+6. Neon-Colored Theme:
 Reactodo boasts a modern neon-colored theme that adds a touch of vibrancy to your task management experience.
 The combination of bright hues and clean design makes it visually appealing.
 
-Frontend Stack:
+7. Frontend Stack:
 HTML provides the basic structure of the app, CSS styles the app, including the neon color scheme, React.js handles dynamic rendering, state management, and user interactions.
 
-Local Storage:
+8. Local Storage:
 Reactodo uses the browser’s local storage to store task data persistently.
 Even if you close the browser or refresh the page, your tasks will be waiting for you when you return.
 
