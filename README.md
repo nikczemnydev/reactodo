@@ -1,6 +1,8 @@
 # Reactodo: A Modern To-Do List App - and my first React.js project. #
 
-Reactodo is a minimalist and efficient to-do list application designed to help you manage your tasks effortlessly. Let’s dive into its features:
+Reactodo is a minimalist and efficient to-do list application designed to help you manage your tasks effortlessly. 
+
+# Features: #
 
 1. Task Input:
 Users can easily input their tasks by typing in the task, and either pressing the Enter key or clicking the “Add Task” button.
