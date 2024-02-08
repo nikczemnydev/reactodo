@@ -2,11 +2,11 @@
 
 Reactodo is a minimalist and efficient to-do list application designed to help you manage your tasks effortlessly. Let’s dive into its features:
 
-Task Input:
+1. Task Input:
 Users can easily input their tasks by typing in the task, and either pressing the Enter key or clicking the “Add Task” button.
 The input field provides a seamless experience for adding new tasks.
 
-Task List:
+2. Task List:
 All added tasks are displayed in a clean and organized list format.
 
 Task Completion:
