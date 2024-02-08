@@ -20,11 +20,8 @@ This ensures that your tasks remain intact across sessions.
 Neon-Colored Theme:
 Reactodo boasts a modern neon-colored theme that adds a touch of vibrancy to your task management experience.
 The combination of bright hues and clean design makes it visually appealing.
-Implementation Details:
 Frontend Stack:
-HTML: Provides the basic structure of the app.
-CSS: Styles the app, including the neon color scheme.
-React.js: Handles dynamic rendering, state management, and user interactions.
+HTML provides the basic structure of the app, CSS styles the app, including the neon color scheme, React.js handles dynamic rendering, state management, and user interactions.
 Local Storage:
 Reactodo uses the browser’s local storage to store task data persistently.
 Even if you close the browser or refresh the page, your tasks will be waiting for you when you return.
