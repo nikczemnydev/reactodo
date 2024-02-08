@@ -35,7 +35,7 @@ HTML provides the basic structure of the app, CSS styles the app, including the 
 Reactodo uses the browser’s local storage to store task data persistently.
 Even if you close the browser or refresh the page, your tasks will be waiting for you when you return.
 
-============================================================================================
+=============================================================================
 
 # Getting Started with Create React App
 
